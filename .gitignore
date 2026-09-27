@@ -1,0 +1,69 @@
+# Flutter / Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/build/
+**/.idea/
+**/*.iml
+**/.metadata
+
+# Android / Gradle
+**/.gradle/
+**/local.properties
+**/captures/
+**/GeneratedPluginRegistrant.java
+**/key.properties
+**/*.keystore
+**/*.jks
+
+# iOS / macOS
+**/Pods/
+**/.symlinks/
+**/DerivedData/
+**/xcuserdata/
+**/Flutter/ephemeral/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/Flutter/GeneratedPluginRegistrant.*
+**/*.mode1v3
+**/*.mode2v3
+**/*.moved-aside
+**/*.pbxuser
+**/*.perspectivev3
+
+# Secrets
+**/.env
+**/.env.*
+**/secrets.dart
+**/*api_key*
+**/*apikey*
+**/google-services.json
+**/GoogleService-Info.plist
+
+# 8051 build outputs
+firmware/**/*.hex
+firmware/**/*.HEX
+firmware/**/*.OBJ
+firmware/**/*.obj
+firmware/**/*.LST
+firmware/**/*.lst
+firmware/**/*.M51
+firmware/**/*.plg
+firmware/**/*.jdb
+firmware/**/*.__i
+firmware/**/*.crf
+firmware/**/*.bak
+firmware/**/Listings/
+firmware/**/Objects/
+firmware/**/*.uvguix.*
+firmware/**/*.uvopt
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.swp
